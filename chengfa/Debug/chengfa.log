@@ -1,0 +1,22 @@
+﻿  源.cpp
+D:\vs2019 cun\chengfa\源.cpp(5,12): error C2059: 语法错误:“:”
+D:\vs2019 cun\chengfa\源.cpp(6,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs2019 cun\chengfa\源.cpp(7,2): error C2046: 非法的 case
+D:\vs2019 cun\chengfa\源.cpp(10,3): error C2046: 非法的 case
+D:\vs2019 cun\chengfa\源.cpp(13,3): error C2046: 非法的 case
+D:\vs2019 cun\chengfa\源.cpp(17,2): error C2046: 非法的 case
+D:\vs2019 cun\chengfa\源.cpp(20,3): error C2046: 非法的 case
+D:\vs2019 cun\chengfa\源.cpp(23,3): error C2046: 非法的 case
+D:\vs2019 cun\chengfa\源.cpp(25,9): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+D:\vs2019 cun\chengfa\源.cpp(25,9): error C2059: 语法错误:“:”
+D:\vs2019 cun\chengfa\源.cpp(28,2): error C2046: 非法的 case
+D:\vs2019 cun\chengfa\源.cpp(6,2): warning C4060: switch 语句没有包含“case”或“default”标签
+D:\vs2019 cun\chengfa\源.cpp(8,13): warning C4060: switch 语句没有包含“case”或“default”标签
+D:\vs2019 cun\chengfa\源.cpp(12,4): error C2043: 非法 break
+D:\vs2019 cun\chengfa\源.cpp(15,4): error C2043: 非法 break
+D:\vs2019 cun\chengfa\源.cpp(18,13): warning C4060: switch 语句没有包含“case”或“default”标签
+D:\vs2019 cun\chengfa\源.cpp(22,4): error C2043: 非法 break
+D:\vs2019 cun\chengfa\源.cpp(25,4): error C2043: 非法 break
+D:\vs2019 cun\chengfa\源.cpp(27,3): error C2043: 非法 break
+D:\vs2019 cun\chengfa\源.cpp(30,3): error C2043: 非法 break
+D:\vs2019 cun\chengfa\源.cpp(31,3): error C2043: 非法 break
